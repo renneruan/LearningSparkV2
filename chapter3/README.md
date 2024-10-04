@@ -1,3 +1,9 @@
-This directory contains the Scala and Python examples for Chapter 3.
+### How to run the code
+To run the Python code for this chapter use:
 
-To build and run these examples cd in the respective scala or py/src directory and follow the instructions in the relevant README.md files.
+ * `spark-submit Example-3_6.py`
+ * `spark-submit rows.py`
+
+Have Fun
+Cheers!
+

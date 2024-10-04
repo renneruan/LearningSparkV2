@@ -1,3 +1,4 @@
-This directory contains all the Scala and Python examples for Chapter 2, along with the code to generate the M&Ms data set.
+### How to run the M&M Example
+To run the Python code for this chapter:
 
-To build and run these examples cd in the respective scala or py/src directory and follow the instructions in the relevant README.md files.
+ * `spark-submit mnmcount.py data/mnm_dataset.csv`
